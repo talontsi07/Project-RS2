@@ -1,0 +1,158 @@
+{
+    "name": "Audi RS2 Avant",
+    "brand": "Blair Automotive",
+    "description": "*Note<br>For full realism, Electro-Mechanical Rear Diff Lock should remain disabled since it was automatically disengaged over 25 kph.<br><br>The Audi RS2 Avant was a limited edition, high-performance Audi five-door, five-seat estate car (station wagon), collaboratively designed as a joint venture between Audi AG and Porsche and built on Audi's 80 Avant. It was Audi's first \"RS\" vehicle, and the first of their high-performance Avants ; it used the most powerful and most thoroughly developed version of Audi's inline-five cylinder turbocharged internal combustion engine.<br>The \"RS\" initials stand for RennSport (from German, literally translated as \"racing sport\"), and is Audi's highest performance 'top-tier' trim level, positioned distinctly above the \"S\" (\"Sport\") specification level of Audi's regular model range. RS cars are usually produced in limited numbers over a limited time scale, and pioneer some of Audi's latest and most advanced technology and engineering prowess; therefore, \"RS\" cars could be described as halo cars. Whilst RS cars generally command a much higher purchase price, compared with their 'lesser' brethren, they also retain very high residual values too.<br>It was powered by a modified version of their 2.2 litre inline five-cylinder 20-valve turbocharged petrol engine that produced a motive power output of 232 kilowatts (315 PS; 311 bhp) at 6,500 rpm.<br>Porsche considerably modified the engine; the standard KKK turbocharger was switched for a larger unit, along with a heavy-duty intercooler and higher flow fuel injectors, a newly designed camshaft, a more efficient induction system, and a low-pressure exhaust system replaced the standard fare; a specially modified URS4/URS6 Bosch-supplied engine management system (ECU) controlled the engine.<br>With so much power available, the RS2 could accelerate from 0 to 100 kilometres per hour (62.1 mph) in under 5 seconds, and achieve a maximum speed of 262 km/h (162.8 mph) (electronically restricted), despite weighing over 1,600 kilograms (3,527 lb). In a road test conducted in 1995, British car magazine Autocar timed the RS2 from 0 to 30 mph (48 km/h) at just 1.5 seconds, which they confirmed was faster than both the McLaren F1 road car, and also Jacques Villeneuve's Formula One car of that time. Even by more modern standards, its performance is exceptional; it could accelerate on-par with the C5 generation Chevrolet Corvette and a 996 generation Porsche 911. The top speed was 166 mph.<br>A six-speed manual gearbox was the only transmission choice. Audi's Torsen-based 'trademark' quattro permanent four-wheel drive system was standard. Front and rear final drive units contained a conventional 'open' differential, and have a ratio of 4.111, although the rear also has an electro-mechanical diff lock.<br>The principal defect of this car was a bigger amount of roll and body motions in respect to similar cars like the M3. People probably expected something with more race feeling from RS2 and so criticized it also for the slow steering response that was indirectly due by the roll motion and by the heavy nose. The RS2 however opened a completely new segment and so it really hadn't a true competitor.",
+    "tags": [
+        "rwd",
+        "Germany",
+        "manual",
+        "sportscar",
+        "turbo"
+    ],
+    "class": "street",
+    "specs": {
+        "bhp": "315 hp",
+        "torque": "410 Nm",
+        "weight": "1595 kg",
+        "topspeed": "260+ km/h",
+        "acceleration": "0 - 100 kph in 5.0 s",
+        "pwratio": "5.06 kg/cv"
+    },
+    "torqueCurve": [
+        [
+            "0",
+            "\t\t70\t"
+        ],
+        [
+            "500",
+            "\t\t110\t"
+        ],
+        [
+            "1000",
+            "\t\t170\t"
+        ],
+        [
+            "1500",
+            "\t\t187\t"
+        ],
+        [
+            "2000",
+            "\t\t197\t"
+        ],
+        [
+            "2500",
+            "\t\t223\t"
+        ],
+        [
+            "3000",
+            "\t\t270\t"
+        ],
+        [
+            "3500",
+            "\t\t409\t"
+        ],
+        [
+            "4000",
+            "\t\t422\t"
+        ],
+        [
+            "4500",
+            "\t\t401\t"
+        ],
+        [
+            "5000",
+            "\t\t390\t"
+        ],
+        [
+            "5500",
+            "\t\t362\t"
+        ],
+        [
+            "6000",
+            "\t\t346\t"
+        ],
+        [
+            "6500",
+            "\t\t335\t"
+        ],
+        [
+            "7000",
+            "\t\t311\t"
+        ],
+        [
+            "7500",
+            "\t\t159\t"
+        ]
+    ],
+    "powerCurve": [
+        [
+            "0",
+            "\t\t0\t"
+        ],
+        [
+            "500",
+            "\t\t8\t"
+        ],
+        [
+            "1000",
+            "\t\t24\t"
+        ],
+        [
+            "1500",
+            "\t\t40\t"
+        ],
+        [
+            "2000",
+            "\t\t56\t"
+        ],
+        [
+            "2500",
+            "\t\t79\t"
+        ],
+        [
+            "3000",
+            "\t\t115\t"
+        ],
+        [
+            "3500",
+            "\t\t204\t"
+        ],
+        [
+            "4000",
+            "\t\t241\t"
+        ],
+        [
+            "4500",
+            "\t\t257\t"
+        ],
+        [
+            "5000",
+            "\t\t278\t"
+        ],
+        [
+            "5500",
+            "\t\t284\t"
+        ],
+        [
+            "6000",
+            "\t\t295\t"
+        ],
+        [
+            "6500",
+            "\t\t310\t"
+        ],
+        [
+            "7000",
+            "\t\t310\t"
+        ],
+        [
+            "7500",
+            "\t\t169\t"
+        ]
+    ],
+    "year": 1993,
+    "country": "Germany",
+    "author": "Remco & abbo90",
+    "url": "",
+    "version": "1.0"
+}
